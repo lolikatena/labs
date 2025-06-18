@@ -1,0 +1,10 @@
+[project]
+name = "trdgf"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi[standart]>=0.115.12",
+    "pyjokes>=0.8.3",
+]
